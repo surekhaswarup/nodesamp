@@ -1,1 +1,1 @@
-web: node getpost-form.js
+web: node getpost_form.js
